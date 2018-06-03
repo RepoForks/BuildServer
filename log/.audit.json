@@ -1,0 +1,134 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 25
+    },
+    "auditLog": "/Users/vontell/Documents/CoinItServer/log/.audit.json",
+    "files": [
+        {
+            "date": 1527553968375,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "d3c37fbc394bfac5cbc16c158569a707"
+        },
+        {
+            "date": 1527553972231,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "b1b484d98b74b314061a4d2b60e70f2e"
+        },
+        {
+            "date": 1527554037358,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "3245c1b7f6365efffe7c3355ae31a6b3"
+        },
+        {
+            "date": 1527554066458,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "f4b74680089111e93c9e8ca4600b876e"
+        },
+        {
+            "date": 1527554070455,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "a78e584843eae9918fe43edc0f88a75e"
+        },
+        {
+            "date": 1527555402535,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "d44e9c9e0188c3ad181e3e4f7ce609e8"
+        },
+        {
+            "date": 1527558404198,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "c74670b3088fcc042c5b754169747ee1"
+        },
+        {
+            "date": 1527558459924,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "2ee8e2abe2d29080e933b466163924a1"
+        },
+        {
+            "date": 1527558982032,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "a863896c2c59929bc4925ca4b9d0d9d3"
+        },
+        {
+            "date": 1527559222720,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "5596dd2981ce7654c477c3aed2490aa5"
+        },
+        {
+            "date": 1527559251582,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "6a295362ee7d05feb553b29f05e540f5"
+        },
+        {
+            "date": 1527559269895,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "2ea50438b02688358447c2f76cd9a726"
+        },
+        {
+            "date": 1527559278799,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "3e0925807440fa2b33102338c502705a"
+        },
+        {
+            "date": 1527559285427,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "6fc599ec7665f17ef756bb7166733565"
+        },
+        {
+            "date": 1527559294263,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "e884ac4d7c0bbe02bf34e130aed3f346"
+        },
+        {
+            "date": 1527559299013,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "74468ebcf32171c2e24e50329db39ccb"
+        },
+        {
+            "date": 1527559392749,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "434554a272971cdeac245ee8243b29ad"
+        },
+        {
+            "date": 1527560030832,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "ec5791921ef8d9bddd6c6b41dc02ddeb"
+        },
+        {
+            "date": 1527560151122,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "07e130af581fbc387055689c7be0a4ed"
+        },
+        {
+            "date": 1527560290965,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "d1316294bb42e034a17510bade7aa32b"
+        },
+        {
+            "date": 1527560571145,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "89c401de7ca7a5c77e741d4e5cffe2e3"
+        },
+        {
+            "date": 1527560640410,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "e13b855793781ad32d082b4aa175e5a8"
+        },
+        {
+            "date": 1527560665996,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "e6ee202e85091deef69b8fa8d3d7e477"
+        },
+        {
+            "date": 1527560800386,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Mo-05-yyyy",
+            "hash": "277c91f2c5ef903bc3c73fc21bde5344"
+        },
+        {
+            "date": 1527865428766,
+            "name": "/Users/vontell/Documents/CoinItServer/log/app.log..Fr-06-yyyy",
+            "hash": "19e29643e0759592c138b00d3f88de74"
+        }
+    ]
+}

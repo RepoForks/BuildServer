@@ -1,0 +1,14 @@
+2018-06-01T15:03:48.770Z - info: Server started on port  3000
+2018-06-01T15:03:48.811Z - info: Connected to mongo server.
+2018-06-01T15:03:48.856Z - info: Successfully instantiated base client.
+2018-06-01T15:03:48.899Z - error: Wrong password
+2018-06-01T15:03:48.911Z - info: [0mPOST /oauth/token [31m503 [0m25.869 ms - 70[0m
+
+2018-06-01T15:03:48.948Z - error: Wrong password
+2018-06-01T15:03:48.949Z - info: [0mPOST /oauth/token [31m503 [0m6.477 ms - 70[0m
+
+2018-06-01T15:03:48.996Z - info: New user 'mocha' has been created
+2018-06-01T15:03:48.997Z - info: [0mPOST /api/users [32m200 [0m23.072 ms - 57[0m
+
+2018-06-01T15:03:49.030Z - info: [0mPOST /oauth/token [32m200 [0m29.138 ms - 99[0m
+
